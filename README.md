@@ -77,7 +77,8 @@
     "homepage": "https://github.com/lynrin/cordova-plugin-buildinfo#readme",
     "devDependencies": {
         "jshint": "^2.6.0"
-    }
+    },
+    "bin": {}
 }
 ```
 
